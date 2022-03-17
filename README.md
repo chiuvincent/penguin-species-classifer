@@ -1,5 +1,5 @@
 # penguin-species-classifer
-Group project written in `python` that deployed machine learning models to predict penguin species.  
+Group project written in Jupyter Notebook (`python`) that deployed machine learning models to predict penguin species.  
 Imported and cleaned up `palmer_penguins.csv` dataset into 3 qualitative and 6 quantitative features.  
 Conducted exploratory data analysis to gain understanding of feature distribution.  
 Reserved 80% of dataset as training set and 20% of dataset as testing set.  
